@@ -7,4 +7,6 @@ This is just a dumping-ground repo for experiments, general tinkering, and very 
 
 **[challenges](https://github.com/Gravecat/workshop/tree/main/challenges)**: This folder is for solutions for challenges on sites like [Project Euler](https://projecteuler.net/) and [CodeChef](https://www.codechef.com/), in different languages I've been tinkering with.
 
+**[python](https://github.com/Gravecat/workshop/tree/main/python)**: Various small Python scripts. More specific details in the folder's readme file.
+
 **[windows](https://github.com/Gravecat/workshop/tree/main/windows)**: Everything in this folder is Windows-specific, and for whatever reason, likely will not ever run on anything but Windows.
